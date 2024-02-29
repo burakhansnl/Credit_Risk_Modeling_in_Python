@@ -1,7 +1,5 @@
 # Credit_Risk_Modeling_in_Python
 
-Throughout the course, we will cover several important data science techniques.
-
 - Weight of evidence
 
 - Information value
